@@ -1,2 +1,1 @@
-<img width="397" alt="스크린샷 2020-11-25 오후 11 29 38" src="https://user-images.githubusercontent.com/55537056/100241455-0bc4e980-2f77-11eb-8a73-b38764982454.png">
-
+![image](https://github.com/jneey2000/yellow-wave.github.io/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-11-25%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.29.38.png)
